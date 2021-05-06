@@ -1,4 +1,6 @@
-# CSci 2041: Advanced Programming Principles
+# OCaml
+## CSci 2041: Advanced Programming Principles based Projects
+## Instructor: Eric Van Wyk, 2018 Spring.
 
 All assignments and course documents will be made available via this
 GitHub repository.
